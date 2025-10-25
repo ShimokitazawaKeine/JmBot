@@ -40,6 +40,20 @@
 ---
 ## 感谢以下项目
 
-https://github.com/tencent-connect/botpy
+<a href="https://github.com/tonquer/JMComic-qt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tencent-connect&repo=botpy&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tencent-connect&repo=botpy" />
+    <img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=tencent-connect&repo=botpy" />
+  </picture>
+</a>
 
-https://github.com/hect0x7/JMComic-Crawler-Python
+
+
+<a href="https://github.com/tonquer/JMComic-qt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hect0x7&repo=JMComic-Crawler-Python&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hect0x7&repo=JMComic-Crawler-Python" />
+    <img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=hect0x7&repo=JMComic-Crawler-Python" />
+  </picture>
+</a>
