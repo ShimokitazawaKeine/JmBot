@@ -36,3 +36,10 @@
 
 注释代码中还有一些llm api对话相关的功能，考虑反应时间过长而放弃了。
 ![牢广](./Hiroi.png)
+
+---
+## 感谢以下项目
+
+https://github.com/tencent-connect/botpy
+
+https://github.com/hect0x7/JMComic-Crawler-Python
