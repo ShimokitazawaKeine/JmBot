@@ -1,0 +1,12 @@
+download:
+  cache: true
+  image:
+    decode: true
+    suffix: .jpg
+  threading:
+    image: 10
+    photo: 8
+
+dir_rule:
+  base_dir: D:/Reuven_Projects/QQBot/data
+  rule: Bd / Aid
