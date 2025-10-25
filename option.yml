@@ -8,5 +8,5 @@ download:
     photo: 8
 
 dir_rule:
-  base_dir: D:/Reuven_Projects/QQBot/data
+  base_dir: # 配置绝对地址
   rule: Bd / Aid
